@@ -29,8 +29,8 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "BYTE-V.lite",
-      "required": false
+      "value": "RajolaVENOCYBER",
+      "required": True
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu ; eg: url1,url2,url3.....",
@@ -54,13 +54,13 @@
     },
     "SESSION_ID": {
       "description": "put your session ID, the code you received after pairing code make sure starts with Byt;;;",
-      "value": "",
+      "value": " Gifted~7zY0gBxR#vk6q6NAY3SsRZOmUn3UIiEKr_8wqajS6Bv1LX22BjW8 ",
       "required": true
     },
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "TalkDrove"
+      "value": "Rajola"
     },
     "CHAT_BOT": {
       "desc": "Put on to allow the bot to chat with people who text you or put off if you don't want the bot to chat with people",
